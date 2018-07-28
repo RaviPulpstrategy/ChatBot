@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 this is description.
                    DESC
 
-  s.homepage     = "https://github.com/RaviPulpstrategy/ChatBot"
+  s.homepage     = "https://github.com/ranapnm123/ChatBot"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ this is description.
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/RaviPulpstrategy/ChatBot.git", :tag => "#{s.version.to_s}" }
+  s.source       = { :git => "https://github.com/ranapnm123/ChatBot.git", :tag => "#{s.version.to_s}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
